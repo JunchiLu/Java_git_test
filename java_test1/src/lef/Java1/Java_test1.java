@@ -24,7 +24,7 @@ public class Java_test1 {
         //Java_test1.scMax();
         //fuhao();
         // jiaoHuan();
-               String s = "dasf32";
+               String s = "这是第一次";
         System.out.println(s);
         System.out.println(s);
         System.out.println(s);
