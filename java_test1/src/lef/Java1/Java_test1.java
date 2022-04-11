@@ -24,15 +24,10 @@ public class Java_test1 {
         //Java_test1.scMax();
         //fuhao();
         // jiaoHuan();
-               String s = "这是第一次";
-        System.out.println(s);
-        System.out.println(s);
-        System.out.println(s);
-        System.out.println(s);
+               String s = "这是第2次";
+
              String ss = "dasf2";
-        System.out.println(ss);
-        System.out.println(ss);
-        System.out.println(ss);
+
         s = "1";
         ss = "2";
         System.out.println(ss);
